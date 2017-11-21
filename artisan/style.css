@@ -1,7 +1,4 @@
 body{ background-color: bisque;
-
-
-
-
-
 }
+
+.content{ max-width: 800px; margin: auto; background-color:#73554b; padding: 0px;}
