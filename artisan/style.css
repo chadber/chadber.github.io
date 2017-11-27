@@ -1,4 +1,23 @@
 body{ background-color: bisque;
+    background-image:url(lights.jpg);
 }
 
-.content{ max-width: 800px; margin: auto; background-color:#f2cb7c; padding: 0px;}
+.content{ max-width: 800px; margin: auto; background-color:floralwhite; padding: 0px;
+
+
+}
+
+
+
+p{ font-family: Verdana;
+    font-size: 14pt;
+    line-height:18pt;
+    
+   
+}
+
+.gradient {
+background: linear-gradient(to right, #401e13, white);
+    
+    
+}
